@@ -139,4 +139,4 @@ bot.on('ready', () => {
     console.log('I am ready!');
 });
 
-bot.login("MTk4ODYzNjE5OTM1NTY3ODcy.Cslo4Q.c7zhxGxMI4rW4C_NvPj2vpZ3sDo");
+bot.login("token");
