@@ -7,3 +7,4 @@ https://github.com/RIP95/daru-bot
 
 Current version of the code:
 
+https://github.com/GhostInTheSteiner/DaSH-The-Supah-Haka
